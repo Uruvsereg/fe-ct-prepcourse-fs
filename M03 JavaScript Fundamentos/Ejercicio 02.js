@@ -4,7 +4,7 @@
 function devolverString(string) {
    // Debe retornar un string.
    // Tu código:
-   v=string;
+   var v=string;
    return v;
 }
 
@@ -13,35 +13,35 @@ function devolverString(string) {
 function suma(x, y) {
    // Retorna el resultado de su suma.
    // Tu código:
-   v=x+y;
+   var v=x+y;
    return v;
 }
 
 function resta(x, y) {
    // Retorna el resultado de la resta.
    // Tu código:
-   v=x-y;
+   var v=x-y;
    return v;
 }
 
 function divide(x, y) {
    // Retorna el resultado de su división.
    // Tu código:
-   v=x/y;
+   var v=x/y;
    return v;
 }
 
 function multiplica(x, y) {
    // Retorna el resultado de su multiplicación.
    // Tu código:
-   v=x*y;
+   var v=x*y;
    return v;
 }
 
 function obtenerResto(x, y) {
    // Obten el resto de la división de "x" entre "y".
    // Tu código:
-   v=x%y;
+   var v=x%y;
    return v;
 }
 

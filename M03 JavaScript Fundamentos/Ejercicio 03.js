@@ -15,8 +15,8 @@ function tienenMismaLongitud(str1, str2) {
    // Retorna True si los dos strings tienen la misma longitud.
    // De lo contrario, retorna False.
    // Tu código:
-   x=str1.length;
-   y=str2.length;
+   var x=str1.length;
+   var y=str2.length;
    if(x===y){
       return true;
    }
